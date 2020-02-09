@@ -1,0 +1,2 @@
+repomanager_remote_version base ${script_dir}/repomanager-base/version local
+repomanager_remote ${script_dir}/repomanager-base/cmd/git.sh cmd/git.sh
