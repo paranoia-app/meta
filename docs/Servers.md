@@ -42,6 +42,9 @@ access to it, in a direct message channel just the 2 users owning the
 channel. And lastly for feeds everybody will have read access to them
 but just the owner will have write access.
 
+A channel has also a description, which is a post too. That is, a channel
+description also has a timestamp indicating when it has been created. 
+
 ### Posts
 Posts are which is typically refered to as messages. The reason they are
 called posts is, that from the technical viewpoint, this matches their
